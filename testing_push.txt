@@ -1,6 +1,0 @@
-Hi Team, 
-
-the file is created to test the pull command
-
-new line has been added into local repo
-
