@@ -1796,3 +1796,16 @@ Caused by: java.lang.Exception: Resource '/citi/pom.xml' does not exist.
 2018-12-27 07:08:04,819 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2018-12-27 07:08:10,079 [Worker-7: Launching junit1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-workspace\junit1
 2018-12-27 07:08:10,079 [Worker-7: Launching junit1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2018-12-28 20:43:41,283 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-28 20:43:54,381 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-28 20:43:54,383 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\demo2\src\main\resources
+2018-12-28 20:43:54,386 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-28 20:43:54,387 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\demo2\src\test\resources
+2018-12-28 20:43:54,453 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-12-28 20:43:54,532 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-12-28 20:43:54,615 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-12-28 20:43:54,624 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\junit\src\test\resources
+2018-12-28 20:43:55,116 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-12-28 20:43:55,129 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-12-28 20:43:55,192 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-12-28 20:43:55,201 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\sample\src\test\resources
